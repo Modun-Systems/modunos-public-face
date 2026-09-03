@@ -4,6 +4,8 @@ Your world. Your OS. ModunOS moves with you.
 
 ModunOS is a browser-native, distributed operating environment currently in active alpha/beta. Its public entry point is **Modun Void** on `ai.modunos.com`.
 
+ModunOS is delivered through the broader **Modunos** platform at `modunos.com`—the wider public face for apps, identity, and platform services (with some areas gated while Modun Void remains public).
+
 It is designed to keep your identity, files/data, communications, AI assistance, and experiences in one coherent place—supporting both **private work** and **shared/public play** with consistent identity and permissions.
 
 ## Start here
