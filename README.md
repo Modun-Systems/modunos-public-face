@@ -24,7 +24,7 @@ Owned by **Modun Systems**. Public web platform: **Modunos** (`modunos.com`). Ru
 
 ## What it is for
 
-Create, publish, connect, and consume in one environment. Home and life apps (for example Garage and Health) lead everyday use; watch/play/forge hubs are part of the same system. People can run their own spaces and network presence with clear private vs shared controls.
+Create, publish, connect, and consume in one environment — with **secure cloud storage** and a single identity/permissions layer for your spaces and files. Home and life apps lead everyday use; watch/play/forge hubs are part of the same system.
 
 ## What this repo is
 
