@@ -2,7 +2,7 @@
 
 Your world. Your OS. ModunOS moves with you.
 
-**ModunOS** is a social creator and consumer platform first — a personal hub for identity, spaces, apps, media, and secure cloud storage — with a full browser-native environment when you need it. Human first; AI assists. Online and private. Privacy-minded.
+**ModunOS** is a social creator and consumer platform first — a personal hub for identity, spaces, apps, media, and secure cloud storage — with a full browser-native environment when you need it. Human first; AI assists. Private on your device; connected when you choose. Privacy-minded.
 
 **Status:** public beta · soft release.
 
