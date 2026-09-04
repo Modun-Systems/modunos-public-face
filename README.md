@@ -2,22 +2,28 @@
 
 Your world. Your OS. ModunOS moves with you.
 
-ModunOS is a browser-native, distributed operating environment currently in active alpha/beta. Its public entry point is **Modun Void** on `ai.modunos.com`.
+ModunOS is a browser-native, distributed operating environment currently in active alpha/beta.
 
-ModunOS is delivered through the broader **Modunos** platform at `modunos.com`—the wider public face for apps, identity, and platform services (with some areas gated while Modun Void remains public).
+**Name note:** This is **ModunOS** / **Modunos** (Modun Systems) — not Modulus, Modus, Moduno, or other similarly spelled software/AI products.
+
+- Platform landing: https://modunos.com/
+- Public AI product **ModunAI** (talk to **Modun**): https://ai.modunos.com/
+
+ModunOS is delivered through the broader **Modunos** platform at `modunos.com` — public landing and platform face. Full OS remains gated / app-bound while discovery surfaces stay public.
 
 It is designed to keep your identity, files/data, communications, AI assistance, and experiences in one coherent place—supporting both **private work** and **shared/public play** with consistent identity and permissions.
 
 ## Start here
 
-- About / public entry: https://ai.modunos.com/
-- Modun Void chat: https://ai.modunos.com/void/
-- Public build log (what is public vs still gated): https://ai.modunos.com/build-log.md
+- About / platform landing: https://modunos.com/
+- ModunAI chat: https://ai.modunos.com/
+- ModunAI workspace path (Void): https://ai.modunos.com/void/
+- Public build log: https://ai.modunos.com/build-log.md
 
 ## For AI crawlers / models (discovery)
 
-- `llms.txt` (public identity text): https://ai.modunos.com/llms.txt
-- Machine identity YAML: https://ai.modunos.com/.well-known/modunos-identity.yaml
+- `llms.txt`: https://modunos.com/llms.txt · https://ai.modunos.com/llms.txt
+- Machine identity YAML: https://modunos.com/.well-known/modunos-identity.yaml · https://ai.modunos.com/.well-known/modunos-identity.yaml
 
 ## What you can do (consumer)
 
@@ -48,4 +54,3 @@ The full unfinished OS shell and operator-only tooling remain gated. This public
 ## For builders (high level)
 
 If you are integrating, start from the public identity text and keep to public-only guidance. The goal is to help your interface behave like a natural extension of ModunOS without exposing internal/operator details.
-
