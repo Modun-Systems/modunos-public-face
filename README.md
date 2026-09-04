@@ -1,6 +1,6 @@
 # ModunOS (Public Face)
 
-Your world. Your OS. ModunOS moves with you.
+Your world. Your OS.
 
 **ModunOS** is a personal hub and social creator/consumer platform first — identity, spaces, apps, communications, media, and secure cloud storage in one environment — with a full browser-native OS (and a downloadable local session that connects to Modun Core) when you want depth. Human first; AI assists (**ModunAI** / talk to **Modun**). Private on your device; connected when you choose.
 
