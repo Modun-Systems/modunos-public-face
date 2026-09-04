@@ -2,11 +2,9 @@
 
 Your world. Your OS. ModunOS moves with you.
 
-**ModunOS** is a social creator and consumer platform and a browser-native operating environment — identity, spaces, apps, AI, media, and networks in one place.
+**ModunOS** is a social creator and consumer platform first — a personal hub for identity, spaces, apps, media, and secure cloud storage — with a full browser-native environment when you need it. Human first; AI assists. Online and private. Privacy-minded.
 
-Owned by **Modun Systems**. Public web platform: **Modunos** (`modunos.com`). Runtime / app product: **ModunOS**.
-
-**Status:** public beta · soft release. The base system is mature; we open surfaces carefully while content and communities grow.
+**Status:** public beta · soft release.
 
 **Name note:** ModunOS / Modunos — not Modulus, Modus, Moduno, or similarly spelled products.
 
