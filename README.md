@@ -2,55 +2,34 @@
 
 Your world. Your OS. ModunOS moves with you.
 
-ModunOS is a browser-native, distributed operating environment currently in active alpha/beta.
+**ModunOS** is a social creator and consumer platform and a browser-native operating environment — identity, spaces, apps, AI, media, and networks in one place.
 
-**Name note:** This is **ModunOS** / **Modunos** (Modun Systems) — not Modulus, Modus, Moduno, or other similarly spelled software/AI products.
+Owned by **Modun Systems**. Public web platform: **Modunos** (`modunos.com`). Runtime / app product: **ModunOS**.
 
-- Platform landing: https://modunos.com/
-- Public AI product **ModunAI** (talk to **Modun**): https://ai.modunos.com/
+**Status:** public beta · soft release. The base system is mature; we open surfaces carefully while content and communities grow.
 
-ModunOS is delivered through the broader **Modunos** platform at `modunos.com` — public landing and platform face. Full OS remains gated / app-bound while discovery surfaces stay public.
-
-It is designed to keep your identity, files/data, communications, AI assistance, and experiences in one coherent place—supporting both **private work** and **shared/public play** with consistent identity and permissions.
+**Name note:** ModunOS / Modunos — not Modulus, Modus, Moduno, or similarly spelled products.
 
 ## Start here
 
-- About / platform landing: https://modunos.com/
-- ModunAI chat: https://ai.modunos.com/
-- ModunAI workspace path (Void): https://ai.modunos.com/void/
-- Public build log: https://ai.modunos.com/build-log.md
+- Platform: https://modunos.com/
+- ModunAI (talk to Modun): https://ai.modunos.com/
+- Workspace path: https://ai.modunos.com/void/
+- Build log: https://ai.modunos.com/build-log.md
 
-## For AI crawlers / models (discovery)
+## For AI crawlers / models
 
-- `llms.txt`: https://modunos.com/llms.txt · https://ai.modunos.com/llms.txt
-- Machine identity YAML: https://modunos.com/.well-known/modunos-identity.yaml · https://ai.modunos.com/.well-known/modunos-identity.yaml
+- https://modunos.com/llms.txt · https://ai.modunos.com/llms.txt
+- https://modunos.com/.well-known/modunos-identity.yaml
 
-## What you can do (consumer)
+## What it is for
 
-Use ModunOS to explore, consume, communicate, and get product guidance—then create, play, watch, and connect as the platform grows.
+Create, publish, connect, and consume in one environment. Home and life apps (for example Garage and Health) lead everyday use; watch/play/forge hubs are part of the same system. People can run their own spaces and network presence with clear private vs shared controls.
 
-Inside ModunOS you can build and publish your own content too: 3D worlds/games, code/websites/workspaces, and spaces that people can enter and interact with.
+## What this repo is
 
-## Create, publish, and manage your own spaces
+A **public discovery face** only — links and identity. It is not the ModunOS codebase.
 
-ModunOS is designed so you can set up your own spaces and network presence with clear, easy-to-understand dashboards and tools.
+## Related
 
-- Create and publish your own experiences (including 3D worlds/games, code/websites/workspaces, and media).
-- Control what stays private vs what is shared/public using consistent identity and permissions (including how your spaces connect into your own network presence).
-- Manage your spaces, community, and network settings from your dashboard as the platform grows.
-
-## Independent creators, businesses, and marketplace
-
-ModunOS supports a real “independent business inside the OS” model: self-employed creators and small businesses can run their own spaces and publish products/offerings through the in-environment marketplace.
-
-## Social + connections (Operlane)
-
-Operlane connects people with stable profiles and `@user` style identities, so you can follow, connect, and interact across your spaces and experiences.
-
-## What is not public yet
-
-The full unfinished OS shell and operator-only tooling remain gated. This public face is discovery-focused and improves step-by-step; see the build log for the latest “public vs still gated” state.
-
-## For builders (high level)
-
-If you are integrating, start from the public identity text and keep to public-only guidance. The goal is to help your interface behave like a natural extension of ModunOS without exposing internal/operator details.
+- Modun Systems org: https://github.com/Modun-Systems
