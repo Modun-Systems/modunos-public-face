@@ -24,7 +24,7 @@ Owned by **Modun Systems**. Public web platform: **Modunos** (`modunos.com`). Ru
 
 ## What it is for
 
-Create, publish, connect, and consume in one environment — with **secure cloud storage** and a single identity/permissions layer for your spaces and files. Home and life apps lead everyday use; watch/play/forge hubs are part of the same system.
+Create, publish, connect, and live in one place — secure cloud storage and a single identity layer. Home and life apps lead; **Opervision** and **Operworld** for watch and play; listen and create music in the same environment.
 
 ## What this repo is
 
